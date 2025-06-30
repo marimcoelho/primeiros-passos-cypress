@@ -11,5 +11,5 @@ class MenuPage {
         cy.get(this.selectorsList().myInfoButton).click()
     }
 }
-
+//vc pode colocar todos os botões do menu lateral aqui
 export default MenuPage
